@@ -1,0 +1,9 @@
+br\com\everton\dadoscadastrais\domain\EnderecoEletronico.class
+br\com\everton\dadoscadastrais\domain\Pessoa.class
+br\com\everton\dadoscadastrais\domain\Telefone.class
+br\com\everton\dadoscadastrais\main\Main.class
+br\com\everton\dadoscadastrais\dadoscadastrais\DadosCadastrais.class
+br\com\everton\dadoscadastrais\dadoscadastrais\DadosCadastraisEnum.class
+br\com\everton\dadoscadastrais\domain\Endereco.class
+br\com\everton\dadoscadastrais\dadoscadastrais\DadosCadastraisStrategy.class
+br\com\everton\dadoscadastrais\domain\DadosPessoais.class
